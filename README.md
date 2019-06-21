@@ -1,4 +1,4 @@
-## my reseume
+## my resume
 
 尝试下 `EventSource`，编辑 `src` 中的目录自动刷新
 
