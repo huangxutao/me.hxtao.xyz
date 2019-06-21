@@ -8,7 +8,7 @@
 ## 基本信息
 
 - ⻩徐涛 · 男 · 1996
-- 本科 · 杭州电子科技大学 · 信息工程 · 计算机科学与技术
+- 本科 | 杭州电子科技大学 · 信息工程 · 计算机科学与技术
 - 博客: <https://note.hxtao.xyz>
 - GitHub: <https://github.com/huangxutao>
 
