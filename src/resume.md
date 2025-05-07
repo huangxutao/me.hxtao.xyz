@@ -7,7 +7,6 @@
 - Email: hxtao1996@gmail.com
 - Tel : 17826800529
 - 微信 : h784124804
-- 自说自话: <https://note.hxtao.xyz>
 
 
 ## 专业技能
